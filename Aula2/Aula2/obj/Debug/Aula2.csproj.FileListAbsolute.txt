@@ -1,0 +1,9 @@
+D:\Temp\AulaCs\Aula2\Aula2\bin\Debug\Aula2.exe.config
+D:\Temp\AulaCs\Aula2\Aula2\bin\Debug\Aula2.exe
+D:\Temp\AulaCs\Aula2\Aula2\bin\Debug\Aula2.pdb
+D:\Temp\AulaCs\Aula2\Aula2\obj\Debug\Aula2.csprojAssemblyReference.cache
+D:\Temp\AulaCs\Aula2\Aula2\obj\Debug\Aula2.Form1.resources
+D:\Temp\AulaCs\Aula2\Aula2\obj\Debug\Aula2.Properties.Resources.resources
+D:\Temp\AulaCs\Aula2\Aula2\obj\Debug\Aula2.csproj.GenerateResource.cache
+D:\Temp\AulaCs\Aula2\Aula2\obj\Debug\Aula2.exe
+D:\Temp\AulaCs\Aula2\Aula2\obj\Debug\Aula2.pdb

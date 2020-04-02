@@ -1,0 +1,11 @@
+D:\Temp\AulaCs\Alua0\Alua0\bin\x64\Debug\netcoreapp3.1\Alua0.exe
+D:\Temp\AulaCs\Alua0\Alua0\bin\x64\Debug\netcoreapp3.1\Alua0.deps.json
+D:\Temp\AulaCs\Alua0\Alua0\bin\x64\Debug\netcoreapp3.1\Alua0.runtimeconfig.json
+D:\Temp\AulaCs\Alua0\Alua0\bin\x64\Debug\netcoreapp3.1\Alua0.runtimeconfig.dev.json
+D:\Temp\AulaCs\Alua0\Alua0\bin\x64\Debug\netcoreapp3.1\Alua0.dll
+D:\Temp\AulaCs\Alua0\Alua0\bin\x64\Debug\netcoreapp3.1\Alua0.pdb
+D:\Temp\AulaCs\Alua0\Alua0\obj\x64\Debug\netcoreapp3.1\Alua0.csprojAssemblyReference.cache
+D:\Temp\AulaCs\Alua0\Alua0\obj\x64\Debug\netcoreapp3.1\Alua0.AssemblyInfoInputs.cache
+D:\Temp\AulaCs\Alua0\Alua0\obj\x64\Debug\netcoreapp3.1\Alua0.AssemblyInfo.cs
+D:\Temp\AulaCs\Alua0\Alua0\obj\x64\Debug\netcoreapp3.1\Alua0.dll
+D:\Temp\AulaCs\Alua0\Alua0\obj\x64\Debug\netcoreapp3.1\Alua0.pdb

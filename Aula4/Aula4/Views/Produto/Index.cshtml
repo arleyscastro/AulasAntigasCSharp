@@ -1,0 +1,36 @@
+﻿@model List<Aula4.Models.ProdutoViewModel>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="container-fluid">
+    <h1> Lista de produtos</h1>
+</section>
+
+<section class="container container-fluid">
+    <div class="body-content">
+        @Html.ActionLink("Criar novo produto", "Criar", "Produto")
+    </div>
+    <div class="body-content">
+        <table class="table table-responsive table-striped">
+            <thead>
+            <tr>
+                <th>#ID</th>
+                <th>NOME</th>
+                <th>DESCRIÇÃO</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var um in Model)
+            {
+                <tr>
+                    <td> @Html.DisplayFor(mdi => um.id) </td>
+                    <td> @Html.DisplayFor(mdi => um.Descricao) </td>
+                    <td> @Html.DisplayFor(mdi => um.Nome) </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</section>
